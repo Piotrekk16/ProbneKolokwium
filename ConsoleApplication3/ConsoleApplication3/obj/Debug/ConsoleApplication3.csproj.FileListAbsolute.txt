@@ -1,0 +1,6 @@
+D:\Nowy folder (2)\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Nowy folder (2)\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Nowy folder (2)\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Nowy folder (2)\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\Nowy folder (2)\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Nowy folder (2)\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
